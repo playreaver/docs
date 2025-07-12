@@ -1,6 +1,6 @@
 <p><h1 id="DevSpace">DevSpace</h1>
 <h1 id="DevSpace%20JSON%20File%20Schema%20Documentation">DevSpace JSON File Schema Documentation</h1>
-This guide provides a detailed explanation of how to format the JSON file required for submitting a project to <a href="https://devspace.reaver.is-a.dev/" target="_blank">DevSpace</a>.<div class="eNyUO"></div><br><h2 id="English">English</h2>
+This guide provides a detailed explanation of how to format the JSON file required for submitting a project to <a href="https://devspace.reaver.is-a.dev/" target="_blank">DevSpace</a>.<div class="YaAkQ"></div><br><h2 id="English">English</h2>
 <h3 id="Basic%20Information">Basic Information</h3>
 <ul><li><code>&#34;name&#34;</code>: Name of your application.</li></ul>
   - Type: <code>string</code>
@@ -102,10 +102,10 @@ This guide provides a detailed explanation of how to format the JSON file requir
 <h3 id="Changelog">Changelog</h3>
 <ul><li><code>&#34;changelog&#34;</code>: Key-value list of version changes.</li></ul>
   - Key: version number
-  - Value: changelog description<div class="eNyUO"></div><br><h2 id="%F0%9F%9A%80%20How%20to%20Publish%20Your%20Project">🚀 How to Publish Your Project</h2>
+  - Value: changelog description<div class="YaAkQ"></div><br><h2 id="%F0%9F%9A%80%20How%20to%20Publish%20Your%20Project">🚀 How to Publish Your Project</h2>
 <ol><li><strong>Fork this repository</strong>:</li></ol>
 
- 👉 <a href="https://github.com/playreaver/elementapps" target="_blank" id="QckP5">https://github.com/playreaver/elementapps</a>
+ 👉 <a href="https://github.com/playreaver/elementapps" target="_blank" id="imPH6">https://github.com/playreaver/elementapps</a>
 
 <ol><li>Inside the <code>/apps/</code> folder:</li></ol>
 
@@ -115,11 +115,11 @@ This guide provides a detailed explanation of how to format the JSON file requir
 
  <em>"Added application: MyCoolApp"</em>
 
-<ol><li>We will review and publish your project on <a href="https://devspace.reaver.is-a.dev/" target="_blank">DevSpace</a></li></ol><div class="eNyUO"></div><br><h2 id="%E2%9C%85%20Recommendations">✅ Recommendations</h2>
-<ul><li>Use <strong>direct links</strong> to images and files</li><li>Make sure all links are <strong>working</strong></li><li>Validate your JSON structure using a tool like <a href="https://jsonlint.com" target="_blank" id="QckP5">jsonlint.com</a></li></ul><div class="eNyUO"></div><br><h2 id="%F0%9F%9B%A0%20Feedback">🛠 Feedback</h2>
-If you have any questions, open an <a href="https://github.com/playreaver/elementapps/issues" target="_blank" id="QckP5">Issue</a> or leave a comment in your Pull Request.
+<ol><li>We will review and publish your project on <a href="https://devspace.reaver.is-a.dev/" target="_blank">DevSpace</a></li></ol><div class="YaAkQ"></div><br><h2 id="%E2%9C%85%20Recommendations">✅ Recommendations</h2>
+<ul><li>Use <strong>direct links</strong> to images and files</li><li>Make sure all links are <strong>working</strong></li><li>Validate your JSON structure using a tool like <a href="https://jsonlint.com" target="_blank" id="imPH6">jsonlint.com</a></li></ul><div class="YaAkQ"></div><br><h2 id="%F0%9F%9B%A0%20Feedback">🛠 Feedback</h2>
+If you have any questions, open an <a href="https://github.com/playreaver/elementapps/issues" target="_blank" id="imPH6">Issue</a> or leave a comment in your Pull Request.
 
-Welcome to <strong>DevSpace</strong> by <a href="https://reaver.is-a.dev" target="_blank" id="QckP5">Reaver.Entertainment</a>!<div class="eNyUO"></div><br><h2 id="%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9">Русский</h2>
+Welcome to <strong>DevSpace</strong> by <a href="https://reaver.is-a.dev" target="_blank" id="imPH6">Reaver.Entertainment</a>!<div class="YaAkQ"></div><br><h2 id="%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9">Русский</h2>
 <h3 id="%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%B0%D1%8F%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F">Основная информация</h3>
 <ul><li><code>&#34;name&#34;</code>: Название вашего приложения.</li></ul>
   - Тип: <code>string</code>
@@ -227,7 +227,7 @@ Welcome to <strong>DevSpace</strong> by <a href="https://reaver.is-a.dev" target
 <h2 id="%F0%9F%9A%80%20%D0%9A%D0%B0%D0%BA%20%D0%BE%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%20%D1%81%D0%B2%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82">🚀 Как опубликовать свой проект</h2>
 <ol><li><strong>Сделайте Fork</strong> этого репозитория:</li></ol>
 
- 👉 <a href="https://github.com/playreaver/elementapps" target="_blank" id="QckP5">https://github.com/playreaver/elementapps</a>
+ 👉 <a href="https://github.com/playreaver/elementapps" target="_blank" id="imPH6">https://github.com/playreaver/elementapps</a>
 
 <ol><li>В папке <code>/apps/</code>:</li></ol>
 
@@ -237,5 +237,5 @@ Welcome to <strong>DevSpace</strong> by <a href="https://reaver.is-a.dev" target
 
  <em>"Добавлено приложение: MyCoolApp"</em>
 
-<ol><li>Мы проверим и опубликуем ваш проект на <a href="https://devspace.reaver.is-a.dev/" target="_blank">DevSpace</a></li></ol><div class="eNyUO"></div><br><h2 id="%E2%9C%85%20%D0%A0%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%86%D0%B8%D0%B8">✅ Рекомендации</h2>
-<ul><li>Используйте <strong>прямые ссылки</strong> на изображения и файлы</li><li>Убедитесь, что все ссылки <strong>работают</strong></li><li>Проверяйте структуру JSON на валидность, например на <a href="https://jsonlint.com" target="_blank" id="QckP5">jsonlint.com</a></li></ul><div class="eNyUO"></div><br></p>
+<ol><li>Мы проверим и опубликуем ваш проект на <a href="https://devspace.reaver.is-a.dev/" target="_blank">DevSpace</a></li></ol><div class="YaAkQ"></div><br><h2 id="%E2%9C%85%20%D0%A0%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%86%D0%B8%D0%B8">✅ Рекомендации</h2>
+<ul><li>Используйте <strong>прямые ссылки</strong> на изображения и файлы</li><li>Убедитесь, что все ссылки <strong>работают</strong></li><li>Проверяйте структуру JSON на валидность, например на <a href="https://jsonlint.com" target="_blank" id="imPH6">jsonlint.com</a></li></ul><div class="YaAkQ"></div><br></p>
