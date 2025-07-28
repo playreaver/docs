@@ -1,5 +1,5 @@
 # DevSpace
-
+ 
 # DevSpace JSON File Schema Documentation
 
 This guide provides a detailed explanation of how to format the JSON file required for submitting a project to [DevSpace](https://devspace.reaver.is-a.dev/).
